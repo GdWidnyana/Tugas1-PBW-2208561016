@@ -35,5 +35,4 @@ Gambar yang sudah diunggah dapat dilihat di halaman tugas.
 ![Dokumentasi hasil :](https://github.com/GdWidnyana/Tugas1-PBW-2208561016/blob/main/Screenshot%202024-04-01%20031008.png)
 
 
-### Catatan
-Terima kasih.
+### Terima kasih.
