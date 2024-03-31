@@ -12,7 +12,7 @@ C
 ---
 
 ### Deskripsi
-Repository ini berisi jawaban tugas 1 Pemrograman Berbasis Website yang meliputi pembuatan file HTML dengan penerapan CSS internal dan eksternal. Dalam tugas ini, saya menggunakan beberapa fitur baru yang ada di HTML 5 dan CSS 3.
+Repository ini berisi jawaban soal nomor 4 dari tugas 1 Pemrograman Berbasis Website yang meliputi pembuatan file HTML dengan penerapan CSS internal dan eksternal. Dalam tugas ini, saya menggunakan beberapa fitur baru yang ada di HTML 5 dan CSS 3.
 
 ### Fitur yang Digunakan
 - HTML 5: Penggunaan elemen baru seperti `<header>`, `<nav>`, `<section>`, dan `<footer>`.
