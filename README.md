@@ -36,6 +36,4 @@ Gambar yang sudah diunggah dapat dilihat di halaman tugas.
 
 
 ### Catatan
-Pastikan untuk memperbarui tautan gambar jika melakukan perubahan pada repositori.
-
 Terima kasih.
